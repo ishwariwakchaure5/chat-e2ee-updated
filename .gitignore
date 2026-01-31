@@ -1,15 +1,6 @@
-# dependencies
 node_modules/
-
-# env files
 .env
-
-# build
 dist/
-
-# logs
+.DS_Store
 npm-debug.log*
 yarn-error.log*
-
-# macOS
-.DS_Store
